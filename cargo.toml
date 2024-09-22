@@ -1,0 +1,33 @@
+[package]
+name = "decentralized_game"
+version = "0.1.0"
+authors = ["Author Name <email@example.com>"]
+edition = "2021"
+description = "A decentralized game contract using ink!"
+
+[dependencies]
+ink_lang = { version = "3.4.0", default-features = false }
+ink_storage = { version = ">=5.0.0", default-features = false }
+ink_env = { version = ">=5.0.0", default-features = false }
+
+scale = "0.1.0"
+scale-info = "2.11.3"
+ink_primitives = { version = "5.0.0", default-features = false }
+
+[dev-dependencies]
+ink_env = { version = "5.0.0", default-features = false }
+ink_lang = { version = "3.3.1", default-features = false }
+
+# [lib]
+# crate-type = ["cdylib", "rlib"]
+
+[features]
+default = ["std"]
+std = [
+    "ink_lang/std",
+    "ink_storage/std",
+    "ink_env/std",
+]
+
+
+
