@@ -1,0 +1,10 @@
+C:\Users\vishal\Desktop\decentralized Game\target\debug\deps\libscale_encode-99ba83df15d99011.rmeta: C:\Users\vishal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\scale-encode-0.5.0\src\lib.rs C:\Users\vishal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\scale-encode-0.5.0\src\impls\mod.rs C:\Users\vishal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\scale-encode-0.5.0\src\impls\composite.rs C:\Users\vishal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\scale-encode-0.5.0\src\impls\variant.rs C:\Users\vishal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\scale-encode-0.5.0\src\error\mod.rs C:\Users\vishal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\scale-encode-0.5.0\src\error\context.rs
+
+C:\Users\vishal\Desktop\decentralized Game\target\debug\deps\scale_encode-99ba83df15d99011.d: C:\Users\vishal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\scale-encode-0.5.0\src\lib.rs C:\Users\vishal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\scale-encode-0.5.0\src\impls\mod.rs C:\Users\vishal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\scale-encode-0.5.0\src\impls\composite.rs C:\Users\vishal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\scale-encode-0.5.0\src\impls\variant.rs C:\Users\vishal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\scale-encode-0.5.0\src\error\mod.rs C:\Users\vishal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\scale-encode-0.5.0\src\error\context.rs
+
+C:\Users\vishal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\scale-encode-0.5.0\src\lib.rs:
+C:\Users\vishal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\scale-encode-0.5.0\src\impls\mod.rs:
+C:\Users\vishal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\scale-encode-0.5.0\src\impls\composite.rs:
+C:\Users\vishal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\scale-encode-0.5.0\src\impls\variant.rs:
+C:\Users\vishal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\scale-encode-0.5.0\src\error\mod.rs:
+C:\Users\vishal\.cargo\registry\src\index.crates.io-6f17d22bba15001f\scale-encode-0.5.0\src\error\context.rs:
